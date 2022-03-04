@@ -2,7 +2,7 @@
   <a href="https://kyve.network">
     <img src="https://user-images.githubusercontent.com/62398724/110093923-289d6400-7d93-11eb-9d37-3ab7de5b752b.png" height="96">
   </a>
-  <h3 align="center"><code>@kyve</code></h3>
+  <h3 align="center"><code>@Alicomm</code></h3>
   <p align="center">A protocol for verified data streams.</p>
 </p>
 
